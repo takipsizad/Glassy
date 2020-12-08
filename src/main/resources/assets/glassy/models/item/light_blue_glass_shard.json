@@ -1,0 +1,6 @@
+{
+		"parent": "minecraft:item/generated",
+		"textures": {
+		  "layer0": "glassy:item/light_blue_glass_shard"
+		}
+	  }

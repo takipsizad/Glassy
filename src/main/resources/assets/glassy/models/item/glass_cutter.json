@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+	  "layer0": "glassy:item/glass_cutter"
+	}
+  }

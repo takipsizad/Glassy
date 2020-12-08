@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_post",
+  "textures": {
+    "pane": "glassy:block/soul_glass",
+    "edge": "glassy:block/soul_glass_pane_top"
+  }
+}

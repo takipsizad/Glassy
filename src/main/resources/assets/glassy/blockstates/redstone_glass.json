@@ -1,0 +1,6 @@
+{
+	"variants": {
+	  "active=false": { "model": "glassy:block/redstone_glass" },
+	  "active=true": { "model": "glassy:block/redstone_glass_active" }
+	}
+  }

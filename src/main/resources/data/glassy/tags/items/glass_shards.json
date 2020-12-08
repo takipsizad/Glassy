@@ -1,0 +1,24 @@
+{
+	"replace": false,
+	"values": [
+		"glassy:glass_shard",
+		"glassy:black_glass_shard",
+		"glassy:blue_glass_shard",
+		"glassy:brown_glass_shard",
+		"glassy:cyan_glass_shard",
+		"glassy:gray_glass_shard",
+		"glassy:green_glass_shard",
+		"glassy:light_blue_glass_shard",
+		"glassy:light_gray_glass_shard",
+		"glassy:lime_glass_shard",
+		"glassy:magenta_glass_shard",
+		"glassy:orange_glass_shard",
+		"glassy:pink_glass_shard",
+		"glassy:purple_glass_shard",
+		"glassy:red_glass_shard",
+		"glassy:white_glass_shard",
+		"glassy:yellow_glass_shard",
+		"glassy:glowing_glass_shard",
+		"glassy:soul_glass_shard"
+	]
+}
