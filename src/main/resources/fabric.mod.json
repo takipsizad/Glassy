@@ -3,11 +3,13 @@
   "id": "glassy",
   "version": "${version}",
   "name": "Glassy",
-  "description": "",
-  "authors": [],
+  "description": "Mod adding some glass related items",
+  "authors": [
+    "Patbox"
+  ],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/glassy/icon.png",
+  "icon": "assets/glassy/logo.png",
   "environment": "*",
   "entrypoints": {
     "client": [
