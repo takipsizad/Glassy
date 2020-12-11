@@ -5,8 +5,8 @@
   "item.glassy.white_glass_shard": "Beyaz cam parçası",
   "item.glassy.orange_glass_shard": "Turuncu cam parçası",
   "item.glassy.magenta_glass_shard": "Magenta cam parçası",
-  "item.glassy.light_blue_glass_shard": "Light blue glass shard",
-  "item.glassy.yellow_glass_shard": "Yellow glass shard",
+  "item.glassy.light_blue_glass_shard": "Açık mavi cam parçası",
+  "item.glassy.yellow_glass_shard": "Sarı cam parçası",
   "item.glassy.lime_glass_shard": "Lime glass shard",
   "item.glassy.pink_glass_shard": "Pink glass shard",
   "item.glassy.gray_glass_shard": "Gray glass shard",
@@ -48,6 +48,6 @@
   "item.glassy.iron_boots": "Glass iron boots",
   "item.glassy.golden_helmet": "Glass golden helmet",
   "item.glassy.golden_chestplate": "Glass golden chestplate",
-  "item.glassy.golden_leggings": "Glass golden leggings",
+  "item.glassy.golden_leggings": "Altın cam pantalon",
   "item.glassy.golden_boots": "ALtın cam botlar"
 }
